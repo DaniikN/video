@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+header {
+    display: flex;
+    width: 10px;
+}
